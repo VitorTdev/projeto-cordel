@@ -77,14 +77,14 @@ section p {
 }
 
 #img01 {
-    background-image: url(/imagens/imgs/background001.jpg);
+    background-image: url('../imagens/imgs/background001.jpg');
     background-attachment: fixed;
     background-position: right center;
     background-size: cover;
 }
 
 #img02 {
-    background-image: url(/imagens/imgs/background002.jpg);
+    background-image: url('../imagens/imgs/background002.jpg');
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
